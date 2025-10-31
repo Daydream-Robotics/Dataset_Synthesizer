@@ -12,22 +12,6 @@
 	],
 	"Plugins": [
 		{
-			"Name": "NVUtilities",
-			"Enabled": true
-		},
-		{
-			"Name": "NVDataObject",
-			"Enabled": true
-		},
-		{
-			"Name": "NVSceneCapturer",
-			"Enabled": true
-		},
-		{
-			"Name": "DomainRandomizationDNN",
-			"Enabled": true
-		},
-		{
 			"Name": "SteamVR",
 			"Enabled": false
 		},
@@ -37,6 +21,14 @@
 			"SupportedTargetPlatforms": [
 				"Win64"
 			]
+		},
+		{
+			"Name": "NVDataObject",
+			"Enabled": true
+		},
+		{
+			"Name": "NVUtilities",
+			"Enabled": true
 		}
 	]
 }
